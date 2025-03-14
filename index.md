@@ -7,3 +7,7 @@
 a="Hello we are learning md!!"
 print(a)
 ``` 
+### The tasks
+- [ ] Cracking Microsoft
+- [ ] GSOC
+- [ ] 1Cr LPA
